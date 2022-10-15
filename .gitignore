@@ -9,6 +9,10 @@ Icon
 .Spotlight-V100
 .Trashes
 ._*
+.env
+.editorconfig
+.git
+.gitignore
 
 
 ############################
